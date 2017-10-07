@@ -10,16 +10,16 @@ Podwozie 2WD Robot Car</br>
 Do zasilania silników oraz płytki wykorzystano powerbank o natężeniu 1A</br>
 Moduł podwójny sterownik silnika L9110</br>
 
-Podłączenie urządzeń
+Podłączenie urządzeń:
 
-HC-06
+HC-06:
 
 VCC -> 5V</br>
 GND -> GND</br>
 TxD -> PA3</br>
 RxD -> PA2</br>
 
-Sterownik silnika L9110
+Sterownik silnika L9110:
 
 VCC -> 5V</br>
 GND -> GND</br>
