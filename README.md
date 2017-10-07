@@ -1,8 +1,6 @@
 STM_BTRobot
 
-Projekt samochodziku sterowanego za pomocą aplikacji na telefon, komunikującej się poprzez  moduł bluetooth z płytką STM. Dzieki aplikacji
-możemy wysyłać poszczególne znaki na płytkę STM która za pomocą sygnału PWM odpowiednio steruje silniczkami. Do kounikacji wykorzystywany jest 
-szeregowy interfejs komunikacyjny USART.
+Projekt samochodziku sterowanego za pomocą aplikacji na telefon, komunikującej się poprzez moduł bluetooth z płytką STM. Dzięki aplikacji możemy wysyłać poszczególne znaki na płytkę STM, która za pomocą sygnału PWM odpowiednio steruje silniczkami. Do komunikacji wykorzystywany jest szeregowy interfejs komunikacyjny USART.
 
 Sprzęt:</br>
 
